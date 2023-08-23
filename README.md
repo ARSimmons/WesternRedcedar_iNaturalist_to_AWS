@@ -27,7 +27,7 @@ Picture of AWS Managment Console showing the data loaded into AWS-RDS/PostGRESQL
 ![Screenshot](https://raw.github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/master/images/pg_test.jpg
 
 Picture of data loaded in QGIS (from the AWS-RDS)
-![Screenshot](https://raw.github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/master/images/western_red_cedar_project_in_inaturalist.jpg
+[![Screenshot](https://raw.github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/master/images/western_red_cedar_project_in_inaturalist.jpg](https://github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/blob/main/images/western_red_cedar_project_in_inaturalist.JPG)
 
 
 *THIS PROJECT IS STILL IN PROCESS 8/22/2023*
