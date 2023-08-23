@@ -24,7 +24,7 @@ https://foresthealth.org/map/analyses/
 iNat api reference https://www.inaturalist.org/pages/api+reference
 
 Picture of AWS Managment Console showing the data loaded into AWS-RDS/PostGRESQL (w postGIS extension)
-![Screenshot](https://raw.github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/master/images/pg_test.jpg
+![url-to-image](https://raw.github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/master/images/pg_test.jpg)
 
 Picture of data loaded in QGIS (from the AWS-RDS)
 ![url-to-image](https://github.com/ARSimmons/WesternRedcedar_iNaturalist_to_AWS/blob/main/images/western_red_cedar_project_in_inaturalist.JPG))
