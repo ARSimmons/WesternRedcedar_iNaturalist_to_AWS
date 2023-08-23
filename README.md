@@ -15,7 +15,7 @@ Data is converted to a point(geom) type and can be visualized in the QGIS platfo
 
 All the data is being taken from an API call of 'Western Redcedar Dieback Map' project entries being captured and saved in 'iNaturalist'.
 
-Instructions on how to add community science data to the 'Western Redcedar Dieback Map' project via the free app: 'iNaturalist'.
+Instructions on how to add community science data to the 'Western Redcedar Dieback Map' project via the free app 'iNaturalist' can be found here.
 https://foresthealth.org/map/
 
 Preliminary Dashboards created by the 'Forest Health Watch' from the 'iNaturalist' project data:
