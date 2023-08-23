@@ -4,17 +4,19 @@
 </head>
 <body>
 # Table of Contents
+	
 [Libraries](#libraries)
 [Project Summary](#project-summary)
 	
 # <a name="libraries"></a>Libraries
-certifi==2023.7.22
-charset-normalizer==3.2.0
-configparser==6.0.0
-idna==3.4
-psycopg2-binary==2.9.7
-requests==2.31.0
-urllib3==2.0.4
+
+certifi
+charset-normalizer
+configparser 
+idna
+psycopg2-binary
+requests
+urllib3
 
 	
 # <a name="project-summary"></a>Project Summary
